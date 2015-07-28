@@ -1,0 +1,15 @@
+Debug: true
+Warning: true
+VanillaAttributes:
+  Health:
+    Min: 0
+    Max: 20
+  Food:
+    Min: 0
+    Max: 20
+  Experience:
+    Min: 0
+    Max: -1
+  Level:
+    Min: 0
+    Max: -1

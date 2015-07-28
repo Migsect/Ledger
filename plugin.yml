@@ -1,0 +1,6 @@
+name: Ledger
+main: net.samongi.Ledger.Ledger
+version: 0.0
+description: Minecraft Attribute API
+author: Migsect
+depend: [SamongiLib]
